@@ -1,5 +1,3 @@
-function App() {
+export function App() {
   return <div>Hola Mundo</div>;
 }
-
-export default App
